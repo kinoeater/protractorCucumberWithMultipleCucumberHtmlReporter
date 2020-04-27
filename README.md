@@ -75,8 +75,3 @@ This code also backups the older reports in to a backup folder out of root calle
 </p>
 
 <br>
-<br>
-
-<p align="center">
-  <a ><img src="assets/report_feature_view.png" width="1200" alt="Report Feature Page" /></a>
-</p>
