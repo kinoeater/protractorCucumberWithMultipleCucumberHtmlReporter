@@ -1,7 +1,7 @@
 
 ## Description
 
-# Test Automation Framework in Cucumber
+# Test Automation Framework for Angular Pages with Cucumber & Protractor
 
 ## Protractor
 
